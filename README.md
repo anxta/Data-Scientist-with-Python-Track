@@ -6,3 +6,5 @@ A compilation derived from my acquired knowledge through the educational path on
 - <a href="https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Data%20Manipulation%20with%20Pandas" > Data Manipulation with Pandas </a>
 - <a href="https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Joining%20Data%20with%20Pandas" > Joining Data with Pandas </a>
 - <a href="https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Introduction%20to%20Statistics%20with%20Python" > Introduction to Statistics with Python </a>
+
+- <a href="https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Introduction%20to%20Data%20Visualization%20with%20Matplotlib"  > </a> Introduction to Data Visualization with Matplotlib> </a> 
