@@ -9,3 +9,4 @@ A compilation derived from my acquired knowledge through the educational path on
 
 - <a href="https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Introduction%20to%20Data%20Visualization%20with%20Matplotlib"> Introduction to Data Visualization with Matplotlib</a> 
 - <a href="https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Introduction%20to%20Data%20Visualization%20with%20Seaborn">  Introduction to Data Visualization with Seaborn </a> 
+- <a href="https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Data%20Science%20Toolbox%20(Part%201)"> Data Science Toolbox (Part 1) </a>
