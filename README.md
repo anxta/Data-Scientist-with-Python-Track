@@ -12,3 +12,4 @@ A compilation derived from my acquired knowledge through the educational path on
 - <a href="https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Data%20Science%20Toolbox%20(Part%201)"> Data Science Toolbox (Part 1) </a>
 
 - <a href="https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Python%20Data%20Science%20Toolbox%20(Part%202) " > Data Science Toolbox (Part 2) </a> 
+- <a href= "https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Intermediate%20Data%20Visualization%20with%20Seaborn" > Intermediate Data Visualization with Seaborn </a>
