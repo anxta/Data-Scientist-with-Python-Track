@@ -16,3 +16,6 @@ A compilation derived from my acquired knowledge through the educational path on
 - <a href= "https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Intermediate%20Data%20Visualization%20with%20Seaborn" > Intermediate Data Visualization with Seaborn </a>
 
 - <a href="https://github.com/anxta/Data-Scientist-with-Python-Track/tree/main/Exploratory%20Data%20Analysis%20in%20Python" > Exploratory Data Analysis in Python </a>
+
+- <a href= "https://github.com/anxta/Data-Scientist-with-Python-Track/blob/main/Working%20with%20Categorical%20Data%20with%20Python" > Working with Categorical Data with Python </a>
+
